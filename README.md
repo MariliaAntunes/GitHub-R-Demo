@@ -4,8 +4,8 @@
 
 The data is analysed as follows:
 
-+ summary Statistics for Weight by Diet and Time
-+ box plot by Diet over Time for weight
++ Summary Statistics for Weight by Diet and Time
++ Box plot by Diet over Time for weight
 
 ## Further information
 
