@@ -17,6 +17,6 @@ summary(ChickWeight)
 
 # Chick Weight plot
 ```{r}
-with(ChickWeight, plot(Time, weight, col=Diet))
+with(ChickWeight, plot(Time, weight, col=Diet, pch=19))
 ```
 
